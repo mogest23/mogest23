@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mogest23
 - 👀 I’m interested in Java, Kotlin, Dart, Flutter, and Python 
 - 🌱 I’m currently learning MySQL and Python,
-- 💞️ I’m looking to collaborate on Flutter, Java, and Kotlin
+- 💞️ I’m looking to collaborate on Flutter, Java, Kotlin, and NodeJs
 
 <!---
 mogest23/mogest23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
